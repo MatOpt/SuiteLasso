@@ -1,0 +1,10 @@
+******* Citation Information *****************************
+If you find the software SuiteLasso
+useful, please cite it in you publication as follows:
+
+X.D. Li, D.F. Sun, and K.C. Toh, 
+A highly efficient semismooth Netwon augmented Lagrangian method for solving Lasso problems, 
+SIAM J. Optimization, SIAM J. Optimization, 28 (2018), pp. 433--458. 
+
+X.D. Li, D.F. Sun and K.C. Toh, On efficiently solving the subproblems of a level-set method for fused lasso problems, 
+SIAM J. Optimization, 28 (2018), pp. 1842--1866. 
